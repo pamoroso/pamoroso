@@ -20,7 +20,8 @@ Although my greatest love was Lisp, I finally settled on Python.
 
 ## Learn more
 
-- [personal website](https://www.paoloamoroso.com)
-- blog: [Moonshots Beyond the Cloud](https://blog.paoloamoroso.com) ([Python posts](https://blog.paoloamoroso.com/search/label/Python))
+- journal: [Paolo Amoroso's Journal](https://journal.paoloamoroso.com)
+- blog: [Moonshots Beyond the Cloud](https://blog.paoloamoroso.com)
+- fediverse: [@amoroso@mastodon.technology](https://mastodon.technology/@amoroso)
 - Twitter: [@amoroso](https://twitter.com/amoroso)
-- book: [Space Apps for Android](https://gum.co/spaceappsforandroid)
+- [personal website](https://www.paoloamoroso.com)
