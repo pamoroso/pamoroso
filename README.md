@@ -21,6 +21,6 @@ Although my greatest love was Lisp, I finally settled on Python.
 ## Learn more
 
 - blog: [Paolo Amoroso's Journal](https://journal.paoloamoroso.com)
-- Fediverse: <a rel="me" href="https://fosstodon.org/@amoroso">Mastodon</a> `@amoroso@fosstodon.org`
+- Fediverse: [@amoroso@fosstodon.org](https://fosstodon.org/@amoroso)
 - Twitter: [@amoroso](https://twitter.com/amoroso)
 - [personal website](https://www.paoloamoroso.com)
