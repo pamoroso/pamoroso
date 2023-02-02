@@ -13,14 +13,10 @@ Now I work in astronomy and space outreach and education. I’m also a member of
 
 I’m no professional developer, just a hobby programmer.
 
-I started playing with and programming computers in the early 1980s. This adventure led me to read about and experiment with many programming languages and environments, from Z-80 and MC-68000 Assembly to Smalltalk.
-
-Although my greatest love was Lisp, I finally settled on Python.
+I started playing with and programming computers in the early 1980s. This adventure led me to read about and experiment with many programming languages and environments, from Z-80 and MC-68000 Assembly to Lisp and Python.
 
 
 ## Learn more
 
-- blog: [Paolo Amoroso's Journal](https://journal.paoloamoroso.com)
-- Fediverse: [@amoroso@fosstodon.org](https://fosstodon.org/@amoroso)
-- Twitter: [@amoroso](https://twitter.com/amoroso)
-- [personal website](https://www.paoloamoroso.com)
+- blog: [Paolo Amoroso's Journal](https://journal.paoloamoroso.com) `@paolo@journal.paoloamoroso.com`
+- Mastodon: [`@amoroso@fosstodon.org`](https://fosstodon.org/@amoroso)
