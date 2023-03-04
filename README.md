@@ -1,6 +1,6 @@
 # Paolo Amoroso
 
-![Paolo Amoroso at the Planetarium of Milan, Italy](https://raw.githubusercontent.com/pamoroso/pamoroso/main/pamoroso-planetarium.jpg)
+![Paolo Amoroso at pad 39A of Kennedy Space Center](https://raw.githubusercontent.com/pamoroso/pamoroso/main/paoloamoroso.jpg)
 
 I’m an Italian astronomy and space popularizer, a Google expert, and a podcaster.
 
