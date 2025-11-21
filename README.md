@@ -19,4 +19,4 @@ I started playing with and programming computers in the early 1980s. This advent
 ## Learn more
 
 - blog: [Paolo Amoroso's Journal](https://journal.paoloamoroso.com) `@paolo@journal.paoloamoroso.com`
-- Mastodon: [`@amoroso@fosstodon.org`](https://fosstodon.org/@amoroso)
+- Mastodon: [`@amoroso@oldbytes.space`](https://oldbytes.space/@amoroso)
