@@ -2,11 +2,11 @@
 
 ![Paolo Amoroso at pad 39A of Kennedy Space Center](https://raw.githubusercontent.com/pamoroso/pamoroso/main/paoloamoroso.jpg)
 
-I’m an Italian astronomy and space popularizer, a Google expert, and a podcaster.
+I’m an Italian astronomy and space popularizer and a podcaster.
 
 Being an astronomy and space nerd didn't improve my social skills as a kid. But it sure gave me breadth and depth in these fields. As a young man, unique experiences provided further insight. And my social skills got a little better, too.
 
-Now I work in astronomy and space outreach and education. I’m also a member of the [Google Product Experts](https://productexperts.withgoogle.com) program.
+I worked in astronomy and space outreach and education.
 
 
 ## Programming
